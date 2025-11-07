@@ -26,7 +26,7 @@ Currently focusing on writing clean, efficient code and strengthening Data Struc
 
 ### 🏆 Coding Profiles
 
-- **LeetCode:**  https://leetcode.com/rahul12/  
+- **LeetCode:**  https://leetcode.com/rcode1234/  
 - **LinkedIn:**  https://www.linkedin.com/in/rahul-das-10b157254
 
 ---
